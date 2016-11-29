@@ -1,0 +1,2 @@
+g++ -o run SOIL/*.c Maze.cpp Robot.cpp Point2D.cpp Run.cpp ObjLoader.cpp Point3D.cpp -framework GLUT -framework OpenGL -framework CoreFoundation -Wno-deprecated
+
